@@ -1,0 +1,1 @@
+let tipo = "de boxeo";
